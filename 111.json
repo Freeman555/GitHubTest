@@ -15,7 +15,7 @@
         "shading": "phong",
         "transparent": false,
         "depthWrite": true,
-        "mapDiffuse": "UVS.png",
+        "mapDiffuse": "",
         "vertexColors": false,
         "visible": true,
         "specularCoef": 50,
