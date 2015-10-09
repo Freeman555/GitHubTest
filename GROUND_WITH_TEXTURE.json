@@ -3,7 +3,7 @@
     "vertices": [-7.08116,0,7.08116,7.08116,0,7.08116,-7.08116,-0,-7.08116,7.08116,-0,-7.08116],
     "materials": [{
         "transparent": false,
-        "mapDiffuse": "TEXTURE.jpg",
+        "mapDiffuse": "https://github.com/Freeman555/GitHubTest/blob/master/TEXTURE.jpg",
         "visible": true,
         "DbgName": "Material.001",
         "wireframe": false,
